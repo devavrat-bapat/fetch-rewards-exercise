@@ -62,3 +62,5 @@ As explained in the test description -
 Please note that the scores range from 0 and 1.
 0 -> If either or both texts are empty. Or they do not have any common words.
 1 -> If the texts are exactly same or extremely similar.
+
+I am attaching Jupyter notebook if the docker version does not run for some reason.
