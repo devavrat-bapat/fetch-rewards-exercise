@@ -11,8 +11,9 @@ Test requirements - <a>https://fetch-hiring.s3.amazonaws.com/data-engineer/text-
 1] Pull this image from the repository - <b>devavrat714/fetchrewards-devavratbapat:1</b> <br>
 Please use the tag name :1<br>
 <br>
-2] Use the below command to run the image<br>
-```
+2] Use the below command to run the image
+
+``` sh
 docker run -it --name db -p 5000:5000 devavrat714/fetchrewards-devavratbapat:1
 ```
 
