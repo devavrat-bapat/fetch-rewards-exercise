@@ -64,3 +64,12 @@ Please note that the scores range from 0 and 1.
 1 -> If the texts are exactly same or extremely similar.
 
 I am attaching Jupyter notebook if the docker version does not run for some reason.
+
+To run the code in Jupyter notebook - 
+Go to the very bottom of the code and change the text to your choice like below.
+
+![alt text](j1.png)
+
+Once you enter the text you want to compare, click Kernel and then Restart & Run All
+
+![alt text](j2.png)
