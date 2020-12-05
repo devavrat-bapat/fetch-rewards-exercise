@@ -1,12 +1,12 @@
-#Fetch Rewards Exercise
+# Fetch Rewards Exercise
 
-Job position - <b>Data Engineer </b><br>
-Applicant - <b>Devavrat Bapat </b><br>
-Email id - <b>bapat.dev@gmail.com</b> <br>
+Job position - ## Data Engineer
+Applicant - ## Devavrat Bapat
+Email id - ## bapat.dev@gmail.com
 
 Test requirements - <a>https://fetch-hiring.s3.amazonaws.com/data-engineer/text-similarity.html</a>
 
-##How to run the code ?
+## How to run the code ?
 
 1] Pull this image from the repository - <b>devavrat714/fetchrewards-devavratbapat:1</b> <br>
 Please use the tag name :1<br>
