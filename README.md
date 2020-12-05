@@ -73,3 +73,4 @@ Go to the very bottom of the code and change the text to your choice like below.
 Once you enter the text you want to compare, click Kernel and then Restart & Run All
 
 ![alt text](j2.png)
+
