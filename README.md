@@ -41,15 +41,24 @@ https://hub.docker.com/repository/docker/devavrat714/fetchrewards-devavratbapat
 
 As explained in the test description -
 
-When Sample 1 is compare to Sample 2 we get the following result
+1] When Sample 1 is compare to Sample 2 we get the following result
 
 ![alt text](sample1and2.png)
 
 
-When Sample 1 is compare to Sample 3 we get the following result
+2] When Sample 1 is compare to Sample 3 we get the following result
 
 ![alt text](sample1and3.png)
 
-<h2></h2>
 
-<h2></h2>
+3] When Same text is entered in both the fields
+
+![alt text](same.png)
+
+4] When completely different texts are entered in both fields
+
+![alt text](diff.png)
+
+Please note that the scores range from 0 and 1.
+0 -> If either or both texts are empty. Or they do not have any common words.
+1 -> If the texts are exactly same or extremely similar.
