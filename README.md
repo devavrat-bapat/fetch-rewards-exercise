@@ -17,21 +17,38 @@ Please use the tag name :1<br>
 docker run -it --name db -p 5000:5000 devavrat714/fetchrewards-devavratbapat:1
 ```
 
-3] Alternatively you can also do the same using Docker desktop -<br>
-Click RUN once the image has been pulled.<br>
+3] Alternatively you can also do the same using Docker desktop -
+Click RUN once the image has been pulled.
 
-4] Go to Container/Apps and click "OPEN IN BROWSER"<br>
+![alt text](1.png)
 
-5] Alternatively you can also open browser and go to this URL<br>
+4] Go to Container/Apps and click "OPEN IN BROWSER"
+
+![alt text](2.png)
+
+5] Alternatively you can also open browser and go to this URL
 <b>http://localhost:5000/</b><br>
+
+![alt text](3.png)
 
 6] Enter text in Text1 and Text2.<br>
 Please do not leave Text1 and/or Text2 blank. This will result in a score of 0.<br>
 
-7] Please click the follow the below link for a comprehensive readme file<br>
-<b>https://github.com/devavrat-bapat/fetch-rewards-exercise/blob/main/README.md</b>
+7] Please click the below link for to see the Docker repo
+https://hub.docker.com/repository/docker/devavrat714/fetchrewards-devavratbapat
 
-<h2></h2>
+## How to run ?
+
+As explained in the test description -
+
+When Sample 1 is compare to Sample 2 we get the following result
+
+![alt text](sample1and2.png)
+
+
+When Sample 1 is compare to Sample 3 we get the following result
+
+![alt text](sample1and3.png)
 
 <h2></h2>
 
