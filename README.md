@@ -1,6 +1,6 @@
 # Fetch Rewards Exercise
 
-Job position - ## Data Engineer
+Job position - <b> Data Engineer </b><br>
 Applicant - ## Devavrat Bapat
 Email id - ## bapat.dev@gmail.com
 
